@@ -1,10 +1,10 @@
-Item,Type,Quantity,Description
-OR Gate,Gates,,
-NAND Gate,Gates,,
-JK Flip Flop,Gates,,
-Logic Buffer,Gates,,
-Inverter,Gates,,
-Protoboard,Components,,
-Resistor 10k,Components,,Needed for pullups
-Resistor 1k,Components,,
-LEDs,Components,,
+Item,Type,Quantity,Notes
+OR Gate,Gates,5,
+NAND Gate,Gates,4,
+JK Flip Flop,Gates,4,
+Logic Buffer,Gates,4,Needed for logic probes
+Inverter,Gates,1,
+Protoboard,Components,3,
+Resistor 10k,Components,4,Needed for pullups and pulldowns
+Resistor 1k,Components,4,Needed for LEDs
+LEDs,Components,4,
