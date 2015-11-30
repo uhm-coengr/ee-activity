@@ -15,9 +15,11 @@
 *** Gate level
 *** Circuit level
 
+
 ** high level circuit map
 *** hookup diagram for just modules
 *** hookup diagram for modules and master module
+
 
 ** module docs
 
@@ -47,17 +49,21 @@
 ***** module internal logic diagram
 ***** module internal circuit diagram
 ***** state table
+
 **** Secondary
-***** Overall Current Draw / Behavior
-***** Cost
+
+- Overall Current Draw / Behavior
+- Cost
+
+
 
 ** Test Documentation
 *** I/O
 
 **** equipment
-    - logic probe / how to use
-    - arduino
-    - debouncing circuit
+- logic probe / how to use
+- arduino
+- debouncing circuit
 
 **** procedure
 ***** How you step through each input
@@ -65,3 +71,6 @@
 
 *** circuit tracing
 **** "How to go through the circuit based on the schematic"
+
+
+
