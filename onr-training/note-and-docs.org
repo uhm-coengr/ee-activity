@@ -2,26 +2,66 @@
 ** define new problem
 ** specs
 ** gant chart
-** testing 
+** testing
    - notes i.e. issues
+
 * documentation
-** solutions
 
-*** parts list
+** intro
+*** Description
+*** Background
 
-*** high level circuit map
+** parts list
+*** Gate level
+*** Circuit level
 
-*** lower level
-*** each module doc
-**** module circuit diagram 
+** high level circuit map
+*** hookup diagram for just modules
+*** hookup diagram for modules and master module
 
-**** state table
-***** module 3
-      
-** test plan
-*** testing IO
+** module docs
+
+*** Module 1
+**** Priority
+***** Description
+***** module internal logic diagram
+***** module internal circuit diagram
+***** state table
+**** Secondary
+***** Overall Current Draw / Behavior
+***** Cost
+
+*** Module 2
+**** Priority
+***** Description
+***** module internal logic diagram
+***** module internal circuit diagram
+***** state table
+**** Secondary
+***** Overall Current Draw / Behavior
+***** Cost
+
+*** Module 3
+**** Priority
+***** Description
+***** module internal logic diagram
+***** module internal circuit diagram
+***** state table
+**** Secondary
+***** Overall Current Draw / Behavior
+***** Cost
+
+** Test Documentation
+*** I/O
+
 **** equipment
     - logic probe / how to use
+    - arduino
+    - debouncing circuit
+
 **** procedure
-**** pass/fail criteria
+***** How you step through each input
+***** pass/fail criteria
+
 *** circuit tracing
+**** "How to go through the circuit based on the schematic"
