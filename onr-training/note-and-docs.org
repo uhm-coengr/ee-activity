@@ -1,0 +1,27 @@
+* notebook
+** define new problem
+** specs
+** gant chart
+** testing 
+   - notes i.e. issues
+* documentation
+** solutions
+
+*** parts list
+
+*** high level circuit map
+
+*** lower level
+*** each module doc
+**** module circuit diagram 
+
+**** state table
+***** module 3
+      
+** test plan
+*** testing IO
+**** equipment
+    - logic probe / how to use
+**** procedure
+**** pass/fail criteria
+*** circuit tracing
